@@ -1,0 +1,29 @@
+[33mcommit 987cb8976e1039a6b190de63fa8438a3835db4e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Sanjoy Guin <guinsanjoy34@gmail.com>
+Date:   Tue Dec 3 08:46:30 2024 +0530
+
+    ad turso and drizzle for db connection
+
+[33mcommit 7dde647ce7bd2fae009a0b9b184c0b752b58c852[m[33m ([m[1;31morigin/test[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mtest[m[33m)[m
+Author: Sanjoy Guin <guinsanjoy34@gmail.com>
+Date:   Sun Dec 1 23:47:15 2024 +0530
+
+    remove unnecessary file
+
+[33mcommit a7d5da90253bd6ba1c5bd9a106fa0ec9b8f5cc6c[m
+Author: Sanjoy Guin <guinsanjoy34@gmail.com>
+Date:   Sun Dec 1 23:41:30 2024 +0530
+
+    add clerk for authetication and authorization
+
+[33mcommit 03ab3952d5be9810601906016ae7857041d32916[m
+Author: Sanjoy Guin <guinsanjoy34@gmail.com>
+Date:   Sat Nov 30 21:22:07 2024 +0530
+
+    add navbar
+
+[33mcommit 0cae38261b36c75f833e728a0835f9e241c02046[m
+Author: Sanjoy Guin <guinsanjoy34@gmail.com>
+Date:   Sat Nov 30 19:31:34 2024 +0530
+
+    Initial commit from Create Next App

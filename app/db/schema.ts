@@ -12,6 +12,8 @@ export const postsTable = sqliteTable("posts", {
   id: integer("id").primaryKey(),
   title: text("title").notNull(),
   content: text("content").notNull(),
+  likes: integer("likes").notNull(),
+  comments: integer("comments").notNull(),
   userId: integer("user_id")
     .notNull()
     .references(() => usersTable.id, { onDelete: "cascade" }),
